@@ -1,2 +1,2 @@
 # chaos
-This repository will contain some necessary codes for understanding fundamentals of quantum chaos.
+This repository will contain some necessary code for understanding the fundamentals of quantum chaos.
