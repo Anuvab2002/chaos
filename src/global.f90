@@ -1,6 +1,6 @@
 !> @\file global.f90
 !> @\author ap
-!> brief provides values of some globally used parameters
+!> @\brief provides values of some globally used parameters
 module global_m
 !============================ Global parameters ===============================!
   double precision, parameter:: tolerance = 1.d-5
